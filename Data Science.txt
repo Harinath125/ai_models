@@ -1,0 +1,13 @@
+Data Science(Developer) Vs Data Analytics(Marketing Guys)
+
+Data Science :
+it is the peocess of converting raw python to proper python
+it is used for preprocessing the data
+
+
+Modules: 
+
+numpy -numerical 
+image processing
+audio processing
+mathematical things
